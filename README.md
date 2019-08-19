@@ -9,7 +9,7 @@ lab-19-socketio-message-queue-server
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-19-socketio-message-queue-server/pull/1)
-* [travis](http://xyz.com)
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-19-socketio-message-queue-server.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-19-socketio-message-queue-server)
 
 #### Documentation
 
